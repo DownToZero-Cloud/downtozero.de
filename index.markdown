@@ -1,5 +1,0 @@
----
-layout: home
----
-
-coming soon.

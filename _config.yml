@@ -1,10 +1,1 @@
-title: down to zero
-email: info@downtozero.de
-description: >-
-  down to zero - a sustainable cloud alternative
-baseurl: ""
-url: "https://downtozero.de"
-
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-cayman
